@@ -5,7 +5,8 @@
 - 👯 &nbsp; I’m looking to collaborate data engineering projects that involve designing robust data pipelines, optimizing data storage and retrieval, and ensuring data quality, with a focus on leveraging the latest technologies and best practices to support data-driven decision-making and analytics.
 - 🤔 &nbsp; Bringing Machines closer to Mankind.
 - 🎓 &nbsp; Studying Information Systems at Northeastern University.
-- 💼 &nbsp; Worked as a Data Analyst at TATA Consultancy Services, Mumbai.
+- 💼 &nbsp; Worked as a Data Engineer at TATA Consultancy Services, Mumbai.
+- 💼 &nbsp; Worked as a Data Science Engineer at EQ/IQ LLC, Georgia.
 
 - <h3> 🛠 &nbsp;Tech Stack</h3>
 
