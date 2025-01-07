@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Bringing Machines closer to Mankind.
 - 🎓 &nbsp; Studying Information Systems at Northeastern University.
 - 💼 &nbsp; Worked as a Data Science Engineer at TATA Consultancy Services, Mumbai.
-- 💼 &nbsp; Worked as a Data Science Engineer Intern at EQ/IQ LLC, Georgia.
+- 💼 &nbsp; Worked as a Data Science Engineer Intern at EQ/IQ LLC.
 
 - <h3> 🛠 &nbsp;Tech Stack</h3>
 
