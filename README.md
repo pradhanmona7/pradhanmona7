@@ -2,7 +2,7 @@
 
 <h2> About Me:</h2>
 
-- 👯 &nbsp; I’m looking to collaborate on projects that involve designing robust data pipelines, optimizing data storage and retrieval, and ensuring data quality. In addition, I am interested in integrating data science techniques, such as predictive modeling, machine learning, and data analytics, to uncover insights and drive decision-making. My focus is on leveraging the latest technologies and best practices to build systems that support scalable, data-driven analytics and deliver actionable business insights.
+- 👯 &nbsp; I’m looking to collaborate on projects that involve designing robust data pipelines, optimizing data storage and retrieval, and ensuring data quality. In addition, I am interested in integrating data science techniques, such as predictive modeling, machine learning, deep learning, text mining, and data analytics, to uncover insights and drive decision-making. My focus is on leveraging the latest technologies and best practices to build systems that support scalable, data-driven analytics and deliver actionable business insights.
 - 🤔 &nbsp; Bringing Machines closer to Mankind.
 - 🎓 &nbsp; Studying Information Systems at Northeastern University.
 - 💼 &nbsp; Worked as a Data Science Engineer at TATA Consultancy Services, Mumbai.
